@@ -1,0 +1,10 @@
+{"Keyword":"中国","Score":0,"Info":"{\"hitsCount\":32,\"memo\":\"备注\"}"}
+{"Keyword":"中国人","Score":1,"Info":"{\"hitsCount\":32,\"memo\":\"备注\"}"}
+{"Keyword":"我的父亲母亲","Score":2,"Info":"{\"hitsCount\":32,\"memo\":\"备注\"}"}
+{"Keyword":"张靓颖","Score":3,"Info":"{\"hitsCount\":32,\"memo\":\"备注\"}"}
+{"Keyword":"张靓颖的funs","Score":4,"Info":"{\"hitsCount\":32,\"memo\":\"备注\"}"}
+{"Keyword":"keyword5","Score":5,"Info":"{\"hitsCount\":32,\"memo\":\"备注\"}"}
+{"Keyword":"keyword6","Score":6,"Info":"{\"hitsCount\":32,\"memo\":\"备注\"}"}
+{"Keyword":"keyword7","Score":7,"Info":"{\"hitsCount\":32,\"memo\":\"备注\"}"}
+{"Keyword":"keyword8","Score":8,"Info":"{\"hitsCount\":32,\"memo\":\"备注\"}"}
+{"Keyword":"keyword9","Score":9,"Info":"{\"hitsCount\":32,\"memo\":\"备注\"}"}
